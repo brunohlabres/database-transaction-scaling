@@ -1,0 +1,2 @@
+escalona.o: escalona.cpp grafo.cpp
+grafo.o: grafo.cpp
